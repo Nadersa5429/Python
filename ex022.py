@@ -1,0 +1,5 @@
+n=input('nome')
+print (n.upper())
+print (n.lower())
+a=n.split()
+print (a[0].count)
